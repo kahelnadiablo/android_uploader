@@ -1,0 +1,23 @@
+buildscript {
+    repositories {
+        maven { url 'http://repo1.maven.org/maven2' }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:0.4'
+    }
+}
+apply plugin: 'android'
+
+dependencies {
+    compile files('libs/android-support-v4.jar', 'libs/commons-io-2.4.jar', 'libs/apache-mime4j-0.6.1.jar', 'libs/httpclient-4.1.jar', 'libs/httpcore-4.1.jar', 'libs/httpmime-4.1.jar')
+}
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion "17.0.0"
+
+    defaultConfig {
+        minSdkVersion 7
+        targetSdkVersion 10
+    }
+}

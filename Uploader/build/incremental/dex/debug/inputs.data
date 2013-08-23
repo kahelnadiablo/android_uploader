@@ -1,0 +1,23 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1371703240867 181041 33fc26c02f8043ab0ede19eadc8c9885386b255c C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\libs\httpcore-4.1.jar
+1376906258181 394 6edb938047c72a68c4eeebc77a85378ac0416111 C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\build\classes\debug\com\kahel\uploader\R$layout.class
+1376906258194 677 357f5795c0df3f9fb78bca27eccc7579cb601e75 C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\build\classes\debug\com\kahel\uploader\R.class
+1376906258181 459 452c26d45ed24d24f3d58edac1430e12492605cf C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\build\classes\debug\com\kahel\uploader\R$id.class
+1376900707129 461 59d6eebd819c588e24acb51bec584cf9c21bf1d4 C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\build\classes\debug\com\kahel\uploader\R$dimen.class
+1376906258183 431 d653c9b993844513af54ab13e48d5d7c156ae812 C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\build\classes\debug\com\kahel\uploader\R$style.class
+1377231693290 5127 5d4a60c67532823f993f0c82f04c9de198fec879 C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\build\classes\debug\kahel\project\uploader\UploadActivity.class
+1371703056398 345186 e70f12e1ea268c09373a5d02290aad4f557addd6 C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\libs\apache-mime4j-0.6.1.jar
+1371703268845 26813 9ba2dcdf94ce35c8a8e9bff242db0618ca932e92 C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\libs\httpmime-4.1.jar
+1376906258183 472 a2a0700d4f7587808218b6fdd171e7d2e0e3afc5 C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\build\classes\debug\com\kahel\uploader\R$string.class
+1376900707132 345 629ba64732b9bdc0a82af2760c100ef0a84ab385 C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\build\classes\debug\com\kahel\uploader\BuildConfig.class
+1371703198617 349959 93cd011acb220de08b57d96106e5800d7097742b C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\libs\httpclient-4.1.jar
+1376900707129 407 99fce0de86db8b8e59dec3c5513cc35d99d5516b C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\build\classes\debug\com\kahel\uploader\R$drawable.class
+1377231693284 1896 deec605e42cfd77b48848c8776e9de5390d95227 C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\build\classes\debug\kahel\project\uploader\UploadActivity$UploaderTask.class
+1377231693253 1381 1b1e742844a50f6bbf5945d24bd34c7c2dc4ece6 C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\build\classes\debug\com\kahel\uploader\MainActivity.class
+1376906258182 388 b186fbf97f541445c3b66851057c38fff99f1615 C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\build\classes\debug\com\kahel\uploader\R$menu.class
+1377231693252 1328 e99a147b2c7339ab6e3f7ce44ff93415876bf3cd C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\build\classes\debug\com\kahel\uploader\MainActivity$1.class
+1376900329187 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\libs\android-support-v4.jar
+1376900707123 340 c56cc73ccde586f67ac6cb71b0d4a53381ad8237 C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\build\classes\debug\com\kahel\uploader\R$attr.class
+1339496384000 185140 b1b6ea3b7e4aa4f492509a4952029cd8e48019ad C:\Users\pc\AndroidStudioProjects\UploaderProject\Uploader\libs\commons-io-2.4.jar
