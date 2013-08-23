@@ -115,7 +115,7 @@ public class UploadActivity extends Activity {
                 response = "There was a problem with your upload.";
             }
 
-        /*convert JSON to string*/
+        
         try{
             BufferedReader reader = new BufferedReader(new InputStreamReader(is,"iso-8859-1"),8);
             string_builder = new StringBuilder();
